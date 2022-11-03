@@ -1,0 +1,47 @@
+body{
+	background: #D4C0BF;
+}
+h1{
+	text-align: center;
+	color: #6E6E70;
+	font-family: Comic Sans MS, cursive;
+}
+.card1{
+	background: #C2949E;
+	height: 300px;
+	width: 600px;
+	border: 5px outset #96797E;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+	color: #353159;
+	font-family: Comic Sans MS, cursive;
+}
+.card2{
+	background: #C2949E;
+	height: 300px;
+	width: 600px;
+	border: 5px outset #96797E;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 3px;
+	color: #353159;
+	font-family: Comic Sans MS, cursive;
+
+}
+.card3{
+	background: #C2949E;
+	height: 170px;
+	width: 600px;
+	border: 5px outset #96797E;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 3px;
+	color: #353159;
+	font-family: Comic Sans MS, cursive;
+}
